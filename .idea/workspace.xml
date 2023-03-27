@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-基础语法/05-数据类型转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/06-标识符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/07-算术运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/08-字符串定义的三种方式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/09-字符串的拼接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/10-字符串格式化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/11-字符串格式化精度控制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/14-字符串格式化练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-基础语法/keywords.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-判断语句/01-bool类型和比较运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-判断语句/02-if语句的基本格式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-判断语句/03-if-else语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-判断语句/04-if-elif-else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-判断语句/05-判断语句的嵌套.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-判断语句/06-判断语句综合案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-循环语句/01-while循环的基础应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/02-while猜数字案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/03-while循环的嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-循环语句/04-while实现-九九乘法表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,24 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/02-判断语句",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vunboyao/Desktop/Python/Python/02-判断语句&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/02-判断语句" />
       <recent name="$PROJECT_DIR$/01-基础语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01-while循环的基础应用">
+  <component name="RunManager" selected="Python.04-while实现-九九乘法表">
     <configuration name="01-while循环的基础应用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-if-else语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-while猜数字案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-判断语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-判断语句/03-if-else语句.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/02-while猜数字案例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-if-elif-else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-while循环的嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-判断语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-判断语句/04-if-elif-else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/03-while循环的嵌套.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-判断语句的嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-while实现-九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-判断语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-判断语句/05-判断语句的嵌套.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/04-while实现-九九乘法表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04-while实现-九九乘法表" />
+        <item itemvalue="Python.03-while循环的嵌套" />
+        <item itemvalue="Python.02-while猜数字案例" />
         <item itemvalue="Python.01-while循环的基础应用" />
         <item itemvalue="Python.06-判断语句综合案例" />
-        <item itemvalue="Python.05-判断语句的嵌套" />
-        <item itemvalue="Python.04-if-elif-else" />
-        <item itemvalue="Python.03-if-else语句" />
       </list>
     </recent_temporary>
   </component>
@@ -215,9 +199,36 @@
       <option name="presentableId" value="Default" />
       <updated>1679847498835</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: Python 基础语法">
+      <created>1679909488046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679909488046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: Python 基础语法" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Python 基础语法" />
   </component>
 </project>
