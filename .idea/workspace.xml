@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04-函数/01-函数的初体验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/02-函数的基础定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/03-函数的参数与返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/04-函数的返回值None类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/05-函数的说明文档.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/06-函数的嵌套调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/07-变量在函数中的作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-函数/08-函数的综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-数据容器/01-列表的定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-数据容器/02-列表的下标索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-数据容器/03-列表的常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-数据容器/04-列表的循环遍历.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,19 +44,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/04-函数",
+    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/05-数据容器",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05-数据容器" />
       <recent name="$PROJECT_DIR$/04-函数" />
       <recent name="$PROJECT_DIR$/02-判断语句" />
       <recent name="$PROJECT_DIR$/01-基础语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.08-函数的综合案例">
-    <configuration name="04-函数的返回值None类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04-列表的循环遍历">
+    <configuration name="01-列表的定义" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-函数/04-函数的返回值None类型.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/01-列表的定义.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-函数的说明文档" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-列表的下标索引" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-函数/05-函数的说明文档.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/02-列表的下标索引.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-函数的嵌套调用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-列表的常用操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-函数/06-函数的嵌套调用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/03-列表的常用操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-变量在函数中的作用域" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-列表的循环遍历" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-函数/07-变量在函数中的作用域.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/04-列表的循环遍历.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04-列表的循环遍历" />
+        <item itemvalue="Python.03-列表的常用操作" />
+        <item itemvalue="Python.02-列表的下标索引" />
+        <item itemvalue="Python.01-列表的定义" />
         <item itemvalue="Python.08-函数的综合案例" />
-        <item itemvalue="Python.07-变量在函数中的作用域" />
-        <item itemvalue="Python.06-函数的嵌套调用" />
-        <item itemvalue="Python.05-函数的说明文档" />
-        <item itemvalue="Python.04-函数的返回值None类型" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679982470518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Python 函数">
+      <created>1679989473225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679989473225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +255,7 @@
     <MESSAGE value="feat: Python 基础语法" />
     <MESSAGE value="feat: Python while循环" />
     <MESSAGE value="feat: Python for循环" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Python for循环" />
+    <MESSAGE value="feat: Python 函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Python 函数" />
   </component>
 </project>
