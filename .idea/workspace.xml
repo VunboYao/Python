@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06-函数进阶/01-函数多返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-函数进阶/02-函数的多种传参方式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-函数进阶/03-匿名函数lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/01-Python中的字面量.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/01-Python中的字面量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/02-Python中的注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/02-Python中的注释.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/03-变量的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/03-变量的定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/04-数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/04-数据类型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/05-数据类型转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/05-数据类型转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/06-标识符.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/06-标识符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/07-算术运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/07-算术运算符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/09-字符串的拼接.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/09-字符串的拼接.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/10-字符串格式化.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/10-字符串格式化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +65,8 @@
       <recent name="$PROJECT_DIR$/01-基础语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03-匿名函数lambda">
-    <configuration name="01-函数多返回值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.15-input数据输入语句">
+    <configuration name="11-字符串格式化精度控制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06-函数进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06-函数进阶/01-函数多返回值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/11-字符串格式化精度控制.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-函数的多种传参方式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12-字符串格式化2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06-函数进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06-函数进阶/02-函数的多种传参方式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-匿名函数lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13-对表达式进行格式化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06-函数进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06-函数进阶/03-匿名函数lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-字典dict的定义" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14-字符串格式化练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/14-字符串格式化练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-数据容器的通用操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15-input数据输入语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/10-数据容器的通用操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03-匿名函数lambda" />
-        <item itemvalue="Python.02-函数的多种传参方式" />
-        <item itemvalue="Python.01-函数多返回值" />
-        <item itemvalue="Python.10-数据容器的通用操作" />
-        <item itemvalue="Python.09-字典dict的定义" />
+        <item itemvalue="Python.15-input数据输入语句" />
+        <item itemvalue="Python.14-字符串格式化练习" />
+        <item itemvalue="Python.13-对表达式进行格式化" />
+        <item itemvalue="Python.12-字符串格式化2" />
+        <item itemvalue="Python.11-字符串格式化精度控制" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680154742433</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: Python 函数的进阶">
+      <created>1680235990021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680235990021</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +296,7 @@
     <MESSAGE value="feat: Python 列表" />
     <MESSAGE value="feat: Python 元组的操作和字符串的操作" />
     <MESSAGE value="feat: Python 数据容器" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Python 数据容器" />
+    <MESSAGE value="feat: Python 函数的进阶" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Python 函数的进阶" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 """
-input获取的输入数据都是字符串类型
-    如果需要将字符串转换成数字类型, 需要用到int(变量)
+input获取的输入数据都是 => 字符串类型
+    如果需要将字符串转换成数字类型, 需要用到 => int(变量)
 """
 name = input('Please tell me, who are you?:')
 print('Robot:', name)

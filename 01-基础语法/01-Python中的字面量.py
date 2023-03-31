@@ -5,4 +5,4 @@ print(type(True))  # bool
 print(type(4+3j))  # complex
 print(type((12, 12)))  # tuple
 print(type({}))  # dict
-print(type(set([1, 3])))  # set
+print(type({1, 2, 3, 4}))  # set

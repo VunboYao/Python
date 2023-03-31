@@ -1,5 +1,5 @@
 """
-    type(数据)，返回数据的类型
+    type(数据)，返回数据的类型 <class 'int'>
 """
 print(type(666))  # int
 print(type(13.14))  # float

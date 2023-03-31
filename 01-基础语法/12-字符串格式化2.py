@@ -7,5 +7,5 @@
 """
 name = 'Vunbo'
 age = 20
-money = 20.00
-print(f"i am {name}, my age is {age}, i have ${money}")
+money = 20.01
+print(f"I am {name}, my age is {age}, i have ${money}")

@@ -11,4 +11,4 @@ last_name = 'Yao'
 print(first_name + last_name)
 
 number = 18266488887
-print('My number:' + number)
+print('My number:' + number)  # error 类型不一致
