@@ -6,13 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-判断语句/01-bool类型和比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-判断语句/01-bool类型和比较运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-判断语句/02-if语句的基本格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-判断语句/02-if语句的基本格式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-判断语句/04-if-elif-else.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-判断语句/04-if-elif-else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-循环语句/01-while循环的基础应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/01-while循环的基础应用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-循环语句/05-for循环的基础语法.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/05-for循环的基础语法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-循环语句/06-range语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/06-range语句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-循环语句/07-for循环的嵌套应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/07-for循环的嵌套应用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-函数/01-函数的初体验.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/01-函数的初体验.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-函数/02-函数的基础定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/02-函数的基础定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-函数/04-函数的返回值None类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/04-函数的返回值None类型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-函数/05-函数的说明文档.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/05-函数的说明文档.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-函数/07-变量在函数中的作用域.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/07-变量在函数中的作用域.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/01-列表的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/01-列表的定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/03-列表的常用操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/03-列表的常用操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/04-列表的循环遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/04-列表的循环遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/05-元组的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/05-元组的定义和操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/07-数据容器(序列)的切片.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/07-数据容器(序列)的切片.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/08-set集合的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/08-set集合的定义和操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +66,8 @@
       <recent name="$PROJECT_DIR$/01-基础语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09-continue和break">
-    <configuration name="05-for循环的基础语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09-字典dict的定义">
+    <configuration name="05-元组的定义和操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/05-for循环的基础语法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/05-元组的定义和操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-range语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-字符串的定义和操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/06-range语句.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-for循环的嵌套应用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-数据容器(序列)的切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/07-for循环的嵌套应用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/07-数据容器(序列)的切片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08-for循环实现九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08-set集合的定义和操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/08-for循环实现九九乘法表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/08-set集合的定义和操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-continue和break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09-字典dict的定义" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/09-continue和break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09-continue和break" />
-        <item itemvalue="Python.08-for循环实现九九乘法表" />
-        <item itemvalue="Python.07-for循环的嵌套应用" />
-        <item itemvalue="Python.06-range语句" />
-        <item itemvalue="Python.05-for循环的基础语法" />
+        <item itemvalue="Python.09-字典dict的定义" />
+        <item itemvalue="Python.08-set集合的定义和操作" />
+        <item itemvalue="Python.07-数据容器(序列)的切片" />
+        <item itemvalue="Python.06-字符串的定义和操作" />
+        <item itemvalue="Python.05-元组的定义和操作" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680240967515</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="docs: Python while &amp; for review">
+      <created>1680244744059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680244744060</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +313,7 @@
     <MESSAGE value="feat: Python 数据容器" />
     <MESSAGE value="feat: Python 函数的进阶" />
     <MESSAGE value="docs: Python basic review" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Python basic review" />
+    <MESSAGE value="docs: Python while &amp; for review" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Python while &amp; for review" />
   </component>
 </project>

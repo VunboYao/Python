@@ -2,6 +2,15 @@
 索引：
     - 从前向后，从0开始
     - 从后向前，从-1开始
+    - 无法修改
+
+常用方法：
+    - index = str.index('xxx')
+    - new_str = str.replace('a', 'b')
+    - new_list = str.split(分割符)
+    - new_str = str.strip()
+    - new_int = str.count(字符串)
+    - len
 """
 
 # 通过下标获取值
@@ -18,7 +27,7 @@ print(f'Y的索引是：{y_index}')
 
 # replace，num1 => num2 全部替换操作。 返回一个新的字符串
 new_str = my_str.replace('Y', 'B')
-print(f'新的字符串是{new_str}')
+print(f'str.replace("Y", "B")新的字符串是{new_str}')
 
 # split，返回一个新的列表
 my_str = 'Hello World I like Python'
@@ -28,11 +37,11 @@ print(f'split操作返回的列表是{new_list}')
 # strip() 去除前后的空格; strip(字符串)，去除前后指定的字符串
 my_str = '  Hello World I like Python   '
 new_str = my_str.strip()
-print(f'新的字符串是:{new_str}')
+print(f'移除空格，新的字符串是:{new_str}')
 
 my_str = '10Hello World I like Python 01'
 new_str = my_str.strip('10')  # 指定前后的字符串1和0
-print(f'新的字符串是:{new_str}')
+print(f'移除前后的10，新的字符串是:{new_str}')
 
 # count(字符串)
 count = my_str.count('10')

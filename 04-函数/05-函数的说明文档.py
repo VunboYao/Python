@@ -11,3 +11,4 @@ def add(x, y):
 
 
 add(1, 99)
+print(add.__doc__)
