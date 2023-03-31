@@ -13,11 +13,12 @@ for i in range(5, 10):
     print(f'{i}\t', end='')
 print()
 
+
 for i in range(5, 10, 2):
     print(f'{i}\t', end='')
 print()
 
-print('----------')
+print('----------practice-----------')
 count = 0
 for i in range(1, 100):
     if i % 2 == 0:

@@ -32,7 +32,7 @@ print('----------practice--------')
 
 number = 10
 
-if int(input('Please input my guess number:')) == number:
+if int(input('Please input my guess number 1-10:')) == number:
     print('Congratulation Good')
 elif int(input('Sorry, please again:')) == number:
     print('Congratulation Nice')

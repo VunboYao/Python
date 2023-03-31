@@ -6,18 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/01-Python中的字面量.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/01-Python中的字面量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/02-Python中的注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/02-Python中的注释.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/03-变量的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/03-变量的定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/04-数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/04-数据类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/05-数据类型转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/05-数据类型转换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/06-标识符.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/06-标识符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/07-算术运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/07-算术运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/09-字符串的拼接.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/09-字符串的拼接.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/10-字符串格式化.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/10-字符串格式化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-判断语句/01-bool类型和比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-判断语句/01-bool类型和比较运算符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-判断语句/02-if语句的基本格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-判断语句/02-if语句的基本格式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-判断语句/04-if-elif-else.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-判断语句/04-if-elif-else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-循环语句/01-while循环的基础应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/01-while循环的基础应用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-循环语句/05-for循环的基础语法.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/05-for循环的基础语法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-循环语句/06-range语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/06-range语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-循环语句/07-for循环的嵌套应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-循环语句/07-for循环的嵌套应用.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/05-数据容器",
-    "settings.editor.selected.configurable": "preferences.general"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,8 +60,8 @@
       <recent name="$PROJECT_DIR$/01-基础语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15-input数据输入语句">
-    <configuration name="11-字符串格式化精度控制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09-continue和break">
+    <configuration name="05-for循环的基础语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/11-字符串格式化精度控制.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/05-for循环的基础语法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-字符串格式化2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-range语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/12-字符串格式化2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/06-range语句.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13-对表达式进行格式化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-for循环的嵌套应用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/13-对表达式进行格式化.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/07-for循环的嵌套应用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14-字符串格式化练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08-for循环实现九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/14-字符串格式化练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/08-for循环实现九九乘法表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15-input数据输入语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09-continue和break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-基础语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-循环语句" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-基础语法/15-input数据输入语句.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-循环语句/09-continue和break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15-input数据输入语句" />
-        <item itemvalue="Python.14-字符串格式化练习" />
-        <item itemvalue="Python.13-对表达式进行格式化" />
-        <item itemvalue="Python.12-字符串格式化2" />
-        <item itemvalue="Python.11-字符串格式化精度控制" />
+        <item itemvalue="Python.09-continue和break" />
+        <item itemvalue="Python.08-for循环实现九九乘法表" />
+        <item itemvalue="Python.07-for循环的嵌套应用" />
+        <item itemvalue="Python.06-range语句" />
+        <item itemvalue="Python.05-for循环的基础语法" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680235990021</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="docs: Python basic review">
+      <created>1680240967515</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680240967515</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +299,7 @@
     <MESSAGE value="feat: Python 元组的操作和字符串的操作" />
     <MESSAGE value="feat: Python 数据容器" />
     <MESSAGE value="feat: Python 函数的进阶" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Python 函数的进阶" />
+    <MESSAGE value="docs: Python basic review" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Python basic review" />
   </component>
 </project>
