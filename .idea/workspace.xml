@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/01-文件的读取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/02-文件读取练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/03-文件的写入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/04-文件的追加.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/05-备份案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/bill.backup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/bill.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/python.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-文件的操作/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/01-异常的捕获.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/02-异常的传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/03-模块的导入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/04-自定义模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/05-Python包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/06-安装第三方包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/07-综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/her_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_package/bar_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_package/foo_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_utils/file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_utils/str_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/python.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +57,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/07-文件的操作",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/08-异常-模块与包/my_package",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-异常-模块与包/my_package" />
       <recent name="$PROJECT_DIR$/07-文件的操作" />
       <recent name="$PROJECT_DIR$/05-数据容器" />
       <recent name="$PROJECT_DIR$/04-函数" />
       <recent name="$PROJECT_DIR$/02-判断语句" />
-      <recent name="$PROJECT_DIR$/01-基础语法" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-异常-模块与包/my_utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05-备份案例">
-    <configuration name="01-文件的读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07-综合案例">
+    <configuration name="05-Python包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/01-文件的读取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/05-Python包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-文件读取练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-安装第三方包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/02-文件读取练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/06-安装第三方包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-文件的写入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-综合案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/03-文件的写入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/07-综合案例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-文件的追加" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,32 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包/my_utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/04-文件的追加.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05-备份案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/05-备份案例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/my_utils/file_util.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,13 +179,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="str_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包/my_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/my_utils/str_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05-备份案例" />
-        <item itemvalue="Python.04-文件的追加" />
-        <item itemvalue="Python.03-文件的写入" />
-        <item itemvalue="Python.02-文件读取练习" />
-        <item itemvalue="Python.01-文件的读取" />
+        <item itemvalue="Python.07-综合案例" />
+        <item itemvalue="Python.str_util" />
+        <item itemvalue="Python.file_util" />
+        <item itemvalue="Python.06-安装第三方包" />
+        <item itemvalue="Python.05-Python包" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680252043156</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="docs: Python file operation">
+      <created>1680332196983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680332196983</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,6 +336,7 @@
     <MESSAGE value="docs: Python basic review" />
     <MESSAGE value="docs: Python while &amp; for review" />
     <MESSAGE value="docs: Python review" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Python review" />
+    <MESSAGE value="feat: Python file operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Python file operation" />
   </component>
 </project>
