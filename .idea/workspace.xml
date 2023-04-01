@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/01-文件的读取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/02-文件读取练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/03-文件的写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/04-文件的追加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/05-备份案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/bill.backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/bill.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-文件的操作/word.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-函数/01-函数的初体验.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/01-函数的初体验.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-函数/02-函数的基础定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/02-函数的基础定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-函数/04-函数的返回值None类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/04-函数的返回值None类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-函数/05-函数的说明文档.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/05-函数的说明文档.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-函数/07-变量在函数中的作用域.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-函数/07-变量在函数中的作用域.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/01-列表的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/01-列表的定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/03-列表的常用操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/03-列表的常用操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/04-列表的循环遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/04-列表的循环遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/05-元组的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/05-元组的定义和操作.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/07-数据容器(序列)的切片.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/07-数据容器(序列)的切片.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/08-set集合的定义和操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/08-set集合的定义和操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +52,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/05-数据容器",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/07-文件的操作",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07-文件的操作" />
       <recent name="$PROJECT_DIR$/05-数据容器" />
       <recent name="$PROJECT_DIR$/04-函数" />
       <recent name="$PROJECT_DIR$/02-判断语句" />
       <recent name="$PROJECT_DIR$/01-基础语法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09-字典dict的定义">
-    <configuration name="05-元组的定义和操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05-备份案例">
+    <configuration name="01-文件的读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/05-元组的定义和操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/01-文件的读取.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-字符串的定义和操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-文件读取练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/06-字符串的定义和操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/02-文件读取练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-数据容器(序列)的切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-文件的写入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/07-数据容器(序列)的切片.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/03-文件的写入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08-set集合的定义和操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-文件的追加" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/08-set集合的定义和操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/04-文件的追加.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-字典dict的定义" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05-备份案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-数据容器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-文件的操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-数据容器/09-字典dict的定义.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-文件的操作/05-备份案例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09-字典dict的定义" />
-        <item itemvalue="Python.08-set集合的定义和操作" />
-        <item itemvalue="Python.07-数据容器(序列)的切片" />
-        <item itemvalue="Python.06-字符串的定义和操作" />
-        <item itemvalue="Python.05-元组的定义和操作" />
+        <item itemvalue="Python.05-备份案例" />
+        <item itemvalue="Python.04-文件的追加" />
+        <item itemvalue="Python.03-文件的写入" />
+        <item itemvalue="Python.02-文件读取练习" />
+        <item itemvalue="Python.01-文件的读取" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680244744060</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="docs: Python review">
+      <created>1680252043156</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680252043156</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,6 +320,7 @@
     <MESSAGE value="feat: Python 函数的进阶" />
     <MESSAGE value="docs: Python basic review" />
     <MESSAGE value="docs: Python while &amp; for review" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Python while &amp; for review" />
+    <MESSAGE value="docs: Python review" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Python review" />
   </component>
 </project>

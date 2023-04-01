@@ -34,7 +34,7 @@ my_str = 'Hello World I like Python'
 new_list = my_str.split(' ')  # 空格
 print(f'split操作返回的列表是{new_list}')
 
-# strip() 去除前后的空格; strip(字符串)，去除前后指定的字符串
+# strip() 去除前后的空格和换行符; strip(字符串)，去除前后指定的字符串
 my_str = '  Hello World I like Python   '
 new_str = my_str.strip()
 print(f'移除空格，新的字符串是:{new_str}')
