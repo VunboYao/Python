@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2265d9-eec6-4583-9f2b-f5e5b150620c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/01-异常的捕获.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/02-异常的传递.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/03-模块的导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/04-自定义模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/05-Python包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/06-安装第三方包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/07-综合案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/her_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_package/bar_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_package/foo_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_utils/file_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/my_utils/str_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-异常-模块与包/python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/01-json数据转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/02-pyecharts快速入门.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/03-折线图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/03-折线图链式调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/America.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/India.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/Japan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-数据可视化综合案例/render.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-函数进阶/01-函数多返回值.py" beforeDir="false" afterPath="$PROJECT_DIR$/06-函数进阶/01-函数多返回值.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,24 +50,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/08-异常-模块与包/my_package",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "/Users/vunboyao/Desktop/Python/Python/09-数据可视化综合案例",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/09-数据可视化综合案例" />
       <recent name="$PROJECT_DIR$/08-异常-模块与包/my_package" />
       <recent name="$PROJECT_DIR$/07-文件的操作" />
       <recent name="$PROJECT_DIR$/05-数据容器" />
       <recent name="$PROJECT_DIR$/04-函数" />
-      <recent name="$PROJECT_DIR$/02-判断语句" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/08-异常-模块与包/my_utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07-综合案例">
-    <configuration name="05-Python包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03-折线图链式调用">
+    <configuration name="01-函数多返回值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06-函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/05-Python包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06-函数进阶/01-函数多返回值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-安装第三方包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01-json数据转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-数据可视化综合案例" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/06-安装第三方包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-数据可视化综合案例/01-json数据转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-综合案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-pyecharts快速入门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-数据可视化综合案例" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/07-综合案例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-数据可视化综合案例/02-pyecharts快速入门.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +138,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包/my_utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-数据可视化综合案例" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/my_utils/file_util.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-数据可视化综合案例/03-折线图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03-折线图链式调用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-数据可视化综合案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-数据可视化综合案例/03-折线图链式调用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,34 +193,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-异常-模块与包/my_utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-异常-模块与包/my_utils/str_util.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07-综合案例" />
-        <item itemvalue="Python.str_util" />
-        <item itemvalue="Python.file_util" />
-        <item itemvalue="Python.06-安装第三方包" />
-        <item itemvalue="Python.05-Python包" />
+        <item itemvalue="Python.03-折线图链式调用" />
+        <item itemvalue="Python.03-折线图" />
+        <item itemvalue="Python.01-函数多返回值" />
+        <item itemvalue="Python.02-pyecharts快速入门" />
+        <item itemvalue="Python.01-json数据转换" />
       </list>
     </recent_temporary>
   </component>
