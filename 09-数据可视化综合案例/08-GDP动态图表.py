@@ -7,6 +7,11 @@ with open('1960-2019GDP.csv', 'r', encoding='GB2312') as f:
     data = f.readlines()
     data.pop(0)
 
+# {
+#   1960:[(china, 1231231), (india, 123132), (usa, 99999), ...],
+#   1961:[...]
+# }
+
 dict_data = {}
 # 遍历数据，拼接需要的数据
 for item in data:
@@ -23,10 +28,6 @@ for item in data:
     else:
         dict_data[dict_key] = []
         dict_data[dict_key].append((line_data[1], str_to_num))
-# {
-#   1960:[(china, 1231231), (india, 123132), (usa, 99999), ...],
-#   1961:[...]
-# }
 
 # 创建时间线，并设置主题
 time_line = Timeline(init_opts=InitOpts(
